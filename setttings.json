@@ -1,0 +1,15 @@
+{
+    "files.associations": {
+        "*.m": "matlab",
+        "*.py": "python"
+    },
+    "matlab.linting.enabled": true,
+    "matlab.linting.path": "/Applications/MATLAB_R2023a.app/bin/maci64/mmlint",
+    "python.linting.enabled": true,
+    "python.linting.pylintEnabled": true,
+    "python.analysis.autoImportCompletions": true,
+    "editor.formatOnSave": true,
+    "editor.codeActionsOnSave": {
+        "source.organizeImports": true
+    }
+}
